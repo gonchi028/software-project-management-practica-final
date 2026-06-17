@@ -27,7 +27,7 @@ El plan de recursos describe la composición del equipo, los roles y responsabil
 
 ## Gestión de la Rotación — Caso de las Renuncias
 
-Aproximadamente en la semana 10 renunciaron dos desarrolladores clave: un desarrollador backend senior y el único desarrollador frontend. Este evento estaba previsto en el registro de riesgos (probabilidad media, impacto alto). Las acciones de contingencia ejecutadas fueron:
+Aproximadamente en la semana 10 renunciaron dos desarrolladores clave: un desarrollador backend senior y el único desarrollador frontend. Este evento estaba previsto en el [registro de riesgos](10-registro_de_riesgos.md) (probabilidad media, impacto alto). Las acciones de contingencia ejecutadas fueron:
 
 - Activación inmediata del plan de reemplazo: contratación de un desarrollador backend intermedio y reubicación interna de un desarrollador frontend desde otro proyecto.
 - Redistribución temporal de tareas: el arquitecto asumió temporalmente tareas backend críticas durante dos semanas.

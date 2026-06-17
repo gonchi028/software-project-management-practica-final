@@ -20,7 +20,7 @@ El presupuesto total aprobado asciende a 70.000 Bs y se distribuye entre costos 
 
 ## Curva de Inversión Acumulada (S-curve)
 
-La inversión sigue una curva en S típica: baja en inicio (5 %), creciente durante la ejecución (aproximadamente un 70 % del gasto concentrado entre las semanas 6 y 22) y decreciente hacia el cierre (10 %). El control de gastos se realiza mediante el análisis del Valor Ganado (EVA) descrito en el tablero de seguimiento de KPI.
+La inversión sigue una curva en S típica: baja en inicio (5 %), creciente durante la ejecución (aproximadamente un 70 % del gasto concentrado entre las semanas 6 y 22) y decreciente hacia el cierre (10 %). El control de gastos se realiza mediante el análisis del Valor Ganado (EVA) descrito en el [tablero de seguimiento de KPI](12-tablero_de_seguimiento_kpi.md).
 
 ## Línea Base de Costos y Control
 
@@ -28,4 +28,4 @@ La línea base de costos se aprobó con el plan de proyecto. Todo gasto se regis
 
 ## Impacto del Cambio de Alcance (Geolocalización)
 
-La solicitud de geolocalización se estimó en un incremento de costo de 4.500 Bs (6,4 % del presupuesto) considerando diseño, desarrollo, pruebas y capacitación. La propuesta fue cubrir el costo con la reserva de gestión (6.000 Bs), sin modificar el presupuesto total, a cambio de reasignar parte del alcance Should del módulo de conciliación a una fase posterior. El análisis costo-beneficio se detalla en la solicitud de cambio (sección 15).
+La solicitud de geolocalización se estimó en un incremento de costo de 4.500 Bs (6,4 % del presupuesto) considerando diseño, desarrollo, pruebas y capacitación. La propuesta fue cubrir el costo con la reserva de gestión (6.000 Bs), sin modificar el presupuesto total, a cambio de reasignar parte del alcance Should del módulo de conciliación a una fase posterior. El análisis costo-beneficio se detalla en la [solicitud de cambio (sección 15)](15-solicitud_de_cambios.md).

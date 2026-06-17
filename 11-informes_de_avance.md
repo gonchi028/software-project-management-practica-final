@@ -43,7 +43,7 @@ El jefe de proyecto presenta un informe de estado semanal a la Dirección de Ing
 
 **Riesgos e incidencias activos**
 
-- R-02 MATERIALIZADO: renuncia de un backend senior y del frontend. Plan de contingencia activado (sección 9.3).
+- R-02 MATERIALIZADO: renuncia de un backend senior y del frontend. Plan de contingencia activado ([sección 9.3](09-plan_de_recursos.md)).
 - R-01 ACTUALIZADO: cambio normativo sobre licencias sanitarias en revisión por la unidad jurídica.
 - R-06 ACTUALIZADO: solicitud de cambio de alcance por módulo de geolocalización en análisis.
 

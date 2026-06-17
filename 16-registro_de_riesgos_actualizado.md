@@ -26,7 +26,7 @@ Tras la materialización de los riesgos R-01 y R-02 y la aprobación del cambio 
 | R-11 | Pérdida de conocimiento tácito por las renuncias                   | Media | Alto  | 8    | Mitigar: pairing, documentación obligatoria, revisiones cruzadas      | Arq.        |
 | R-12 | Sobrecosto al cierre por presión del atraso (SPI bajo)             | Media | Alto  | 8    | Mitigar: control estricto, repriorización del backlog, uso de reserva | JP          |
 
-> Escala 1–4 no lineal (Bajo=1, Medio=2, Alto=4); severidad = P × I; prioridad a partir de severidad ≥ 8 (ver sección 10).
+> Escala 1–4 no lineal (Bajo=1, Medio=2, Alto=4); severidad = P × I; prioridad a partir de severidad ≥ 8 (ver [sección 10](10-registro_de_riesgos.md)).
 
 ## Lecciones de los Riesgos Materializados
 

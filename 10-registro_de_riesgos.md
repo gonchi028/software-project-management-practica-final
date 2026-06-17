@@ -43,4 +43,4 @@ Severidad 8. Se mitiga con un diseño paramétrico del módulo de licencias (cat
 
 **R-02 — Renuncia de personal técnico clave**
 
-Severidad 8. Se mitiga con documentación técnica obligatoria por módulo, pair programming en tareas críticas y un plan de reemplazo preacordado con el área de recursos humanos. Plan de contingencia: activar reemplazo en menos de una semana y redistribuir temporalmente tareas. Este riesgo se materializó en la semana 10 (ver sección 16, registro actualizado).
+Severidad 8. Se mitiga con documentación técnica obligatoria por módulo, pair programming en tareas críticas y un plan de reemplazo preacordado con el área de recursos humanos. Plan de contingencia: activar reemplazo en menos de una semana y redistribuir temporalmente tareas. Este riesgo se materializó en la semana 10 (ver [sección 16, registro actualizado](16-registro_de_riesgos_actualizado.md)).

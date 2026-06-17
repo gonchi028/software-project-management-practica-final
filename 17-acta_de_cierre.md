@@ -46,7 +46,7 @@ El acta de cierre formaliza la conclusión del proyecto o fase, verifica que tod
 
 ## Lecciones Aprendidas y Recomendaciones
 
-El proyecto cumplió sus objetivos a pesar de dos riesgos materializados (renuncia de personal y cambio de alcance). Las lecciones aprendidas se detallan en la sección 18. Se recomienda: mantener la metodología híbrida para futuros proyectos con la Alcaldía, reforzar el plan de gestión del conocimiento y considerar un módulo de app móvil para una segunda fase.
+El proyecto cumplió sus objetivos a pesar de dos riesgos materializados (renuncia de personal y cambio de alcance). Las lecciones aprendidas se detallan en la [sección 18](18-lecciones_aprendidas.md). Se recomienda: mantener la metodología híbrida para futuros proyectos con la Alcaldía, reforzar el plan de gestión del conocimiento y considerar un módulo de app móvil para una segunda fase.
 
 ## Liberación de Recursos
 

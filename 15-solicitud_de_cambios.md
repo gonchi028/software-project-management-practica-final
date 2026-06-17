@@ -66,7 +66,7 @@ El proceso de control de cambios del SGMM sigue el flujo estándar del PMBOK con
 
 El Comité de Control de Cambios se reunió el 18/03/2026. Considerando que el proyecto tiene riesgos activos materializados (renuncias) y que la solicitud aporta valor claro pero no es bloqueante para el MVP, el CCB resolvió:
 
-**RESOLUCIÓN:** Aprobar la solicitud bajo la Alternativa B. El módulo de geolocalización se entrega como incremento posterior al MVP, financiado con 4.500 Bs de la reserva de gestión, con un alcance limitado a: captura de coordenadas en el registro del puesto, visualización en mapa por mercado y exportación de ubicaciones. Se actualizan las líneas base de alcance, cronograma y presupuesto; se incorpora el riesgo R-09 al registro actualizado.
+**RESOLUCIÓN:** Aprobar la solicitud bajo la Alternativa B. El módulo de geolocalización se entrega como incremento posterior al MVP, financiado con 4.500 Bs de la reserva de gestión, con un alcance limitado a: captura de coordenadas en el registro del puesto, visualización en mapa por mercado y exportación de ubicaciones. Se actualizan las líneas base de alcance, cronograma y presupuesto; se incorpora el riesgo R-09 al [registro actualizado](16-registro_de_riesgos_actualizado.md).
 
 ## Documentos Generados en el Proceso
 

@@ -18,7 +18,7 @@ La selección se sustenta en tres factores:
 | -------------------------- | ------------------------------------------------------------------------------------------------ |
 | Rol: Product Owner         | Un analista funcional de la Dirección de Ingresos, con poder de decisión sobre el backlog.       |
 | Rol: Scrum Master          | El jefe de proyecto asume además este rol, facilitando las ceremonias y eliminando impedimentos. |
-| Rol: Equipo de desarrollo  | 3 a 4 desarrolladores + 1 QA. Tras las renuncias se ajustó la carga (ver Plan de Recursos).      |
+| Rol: Equipo de desarrollo  | 3 a 4 desarrolladores + 1 QA. Tras las renuncias se ajustó la carga (ver [Plan de Recursos](09-plan_de_recursos.md)).      |
 | Artefacto: Product Backlog | Lista priorizada de historias de usuario en la herramienta Jira.                                 |
 | Artefacto: Sprint Backlog  | Historias comprometidas por sprint.                                                              |
 | Artefacto: Incremento      | Funcionalidad desplegable al final de cada sprint.                                               |

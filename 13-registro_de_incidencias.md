@@ -28,4 +28,4 @@ El registro de incidencias documenta los problemas operativos, defectos y evento
 
 ## Gestión de Incidencias
 
-Las incidencias se registran en Jira con su responsable asignado. Las críticas y altas se revisan en el Daily Scrum; las medias y bajas, en la reunión semanal. Toda incidencia crítica genera una acción correctiva inmediata y, si corresponde, una entrada en el registro de riesgos o una solicitud de cambio.
+Las incidencias se registran en Jira con su responsable asignado. Las críticas y altas se revisan en el Daily Scrum; las medias y bajas, en la reunión semanal. Toda incidencia crítica genera una acción correctiva inmediata y, si corresponde, una entrada en el [registro de riesgos](10-registro_de_riesgos.md) o una [solicitud de cambio](15-solicitud_de_cambios.md).
