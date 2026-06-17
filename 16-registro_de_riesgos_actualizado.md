@@ -22,9 +22,11 @@ Tras la materialización de los riesgos R-01 y R-02 y la aprobación del cambio 
 | ID   | Riesgo                                                             | P     | I     | Sev. | Estrategia                                                            | Responsable |
 | ---- | ------------------------------------------------------------------ | ----- | ----- | ---- | --------------------------------------------------------------------- | ----------- |
 | R-09 | Precisión insuficiente del GPS y calidad de coordenadas capturadas | Media | Medio | 4    | Mitigar: validación en captura y depuración periódica                 | Arq.        |
-| R-10 | Sobrecarga del equipo durante el onboarding de los reemplazos      | Alta  | Medio | 6    | Mitigar: priorizar alcance Must, horas extraordinarias acotadas       | JP          |
+| R-10 | Sobrecarga del equipo durante el onboarding de los reemplazos      | Alta  | Medio | 8    | Mitigar: priorizar alcance Must, horas extraordinarias acotadas       | JP          |
 | R-11 | Pérdida de conocimiento tácito por las renuncias                   | Media | Alto  | 8    | Mitigar: pairing, documentación obligatoria, revisiones cruzadas      | Arq.        |
-| R-12 | Sobrecosto al cierre (EAC > BAC)                                   | Media | Alto  | 8    | Mitigar: control estricto, repriorización del backlog, uso de reserva | JP          |
+| R-12 | Sobrecosto al cierre por presión del atraso (SPI bajo)             | Media | Alto  | 8    | Mitigar: control estricto, repriorización del backlog, uso de reserva | JP          |
+
+> Escala 1–4 no lineal (Bajo=1, Medio=2, Alto=4); severidad = P × I; prioridad a partir de severidad ≥ 8 (ver sección 10).
 
 ## Lecciones de los Riesgos Materializados
 

@@ -11,7 +11,7 @@ El presupuesto total aprobado asciende a 70.000 Bs y se distribuye entre costos 
 | Personal de desarrollo         | 3 desarrolladores × 6 meses        | 30.000     | 42,9 % |
 | Aseguramiento de calidad       | 1 QA × 6 meses                     | 7.000      | 10,0 % |
 | Análisis y diseño              | Analista funcional / PO parcial    | 6.000      | 8,6 %  |
-| Gestión del proyecto           | Jefe de proyecto (20 % dedication) | 6.000      | 8,6 %  |
+| Gestión del proyecto           | Jefe de proyecto (20 % dedicación) | 6.000      | 8,6 %  |
 | Infraestructura y herramientas | Servidores, licencias, CI/CD       | 5.000      | 7,1 %  |
 | Capacitación y despliegue      | Capacitación a usuarios finales    | 3.000      | 4,3 %  |
 | Reserva de contingencia        | 15 % sobre costos directos         | 7.000      | 10,0 % |

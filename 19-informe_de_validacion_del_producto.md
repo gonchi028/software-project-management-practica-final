@@ -1,5 +1,7 @@
 # Informe de Validación del Producto
 
+---
+
 El informe de validación del producto documenta la verificación formal por parte del cliente de que el MVP cumple con los criterios de aceptación acordados. Es la base del acta de aceptación firmada.
 
 ## Alcance de la Validación

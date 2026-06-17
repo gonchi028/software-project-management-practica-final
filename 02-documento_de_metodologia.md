@@ -9,7 +9,7 @@ El SGMM adopta una metodología híbrida, que combina las fortalezas del enfoque
 La selección se sustenta en tres factores:
 
 1. Los requerimientos del sistema son susceptibles de cambiar (como efectivamente ocurrió con la normativa de licencias), lo que favorece un enfoque iterativo.
-2. El cliente es una entidad pública que requiere entregables formales, hitos aprobados y trazabilidad presupuestaria, lo que exige un enofque tradicional.
+2. El cliente es una entidad pública que requiere entregables formales, hitos aprobados y trazabilidad presupuestaria, lo que exige un enfoque tradicional.
 3. El equipo es pequeño (cinco a seis personas), condición ideal para Scrum.
 
 ## Componente Ágil - Scrum
@@ -39,9 +39,9 @@ El proyecto se organiza en cinco fases de gobernanza sobre las que se ejecutan t
 | ----------------------- | -------- | ------- | ------------------------------------------------- |
 | Inicio                  | 1–4      | —       | Acta, plan de proyecto, requerimientos            |
 | Planificación detallada | 3–6      | S1–S2   | Backlog priorizado, arquitectura, cronograma base |
-| Ejecución               | 5–22     | S3–S11  | Incrementos funcionales de los módulos            |
+| Ejecución               | 5–23     | S3–S11  | Incrementos funcionales de los módulos            |
 | Monitoreo y control     | Continuo | —       | Informes, KPI, registro de cambios y riesgos      |
-| Cierre                  | 23–26    | S12–S13 | Validación, despliegue, lecciones aprendidas      |
+| Cierre                  | 24–26    | S12–S13 | Validación, despliegue, lecciones aprendidas      |
 
 ## Definición de Hecho (Definition of Done)
 

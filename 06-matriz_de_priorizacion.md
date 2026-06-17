@@ -21,5 +21,5 @@ Cada historia se ubicó en un cuadrante según su valor de negocio y el esfuerzo
 | -------------------------- | ------------------------------------------------------------- | ----------------------------------------- |
 | Alto valor / Bajo esfuerzo | Quick wins. Ej.: RF-13 (alerta de vencimiento), RF-20 (login) | Priorizar primero                         |
 | Alto valor / Alto esfuerzo | Pilares del producto. Ej.: RF-06 (cobro), RF-11 (licencias)   | Planificar con cuidado, sprints tempranos |
-| Bajo valor / Bajo esfuerzo | Rellenos. Ej.: RF-05 (carnnet QR)                             | Si sobra capacidad                        |
+| Bajo valor / Bajo esfuerzo | Rellenos. Ej.: RF-05 (carnet QR)                              | Si sobra capacidad                        |
 | Bajo valor / Alto esfuerzo | Evitar. Ej.: integración con pasarela de pago                 | Excluir del MVP                           |

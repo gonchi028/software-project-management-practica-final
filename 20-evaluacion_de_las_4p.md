@@ -2,7 +2,7 @@
 
 ---
 
-La evaluación de las 4P es un instrumento de análisis del proyecto desde cuatro dimensiones: Producto, Proceso, Personas y Proyectos (en sentido de alineación con la cartera). Permite obtener una visión integral del desempeño más allá de la triple restricción clásica.
+La evaluación de las 4P es un instrumento de análisis del proyecto desde cuatro dimensiones: Personas, Proceso, Proyecto (alineación con la cartera) y Producto. Permite obtener una visión integral del desempeño más allá de la triple restricción clásica.
 
 ## Personas
 

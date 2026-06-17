@@ -72,7 +72,7 @@ El sistema es una aplicación web responsiva operada desde los puntos de atenci�
 
 Cada requerimiento se traza hacia los objetivos del negocio y hacia los casos de prueba que lo verifican. La matriz completa se mantiene en Confluence.
 
-| Requerimiento    | Objertivo de negocio                   | Caso de prueba                           |
+| Requerimiento    | Objetivo de negocio                   | Caso de prueba                           |
 | ---------------- | -------------------------------------- | ---------------------------------------- |
 | RF-06 (cobro)    | Incrementar recaudación y trazabilidad | CT-06: registro de cobro con comprobante |
 | RF-11 (licencia) | Cumplimiento sanitario normativo       | CT-11: registro de licencia y alerta     |

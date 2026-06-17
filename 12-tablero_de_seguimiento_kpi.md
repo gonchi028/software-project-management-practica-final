@@ -21,19 +21,19 @@ El tablero de seguimiento consolida los indicadores clave de desempeño del proy
 
 Considerando el BAC (Budget at Completion) de 70.000 Bs y un avance planificado del 38 % a la semana 10:
 
-| Variable | Valor                         | Cálculo / Interpretación              |
-| -------- | ----------------------------- | ------------------------------------- |
-| PV       | (Planned Value) 26.600 Bs     | 70.000 × 0,38                         |
-| EV       | (Earned Value) 23.800 Bs      | 70.000 × 0,34                         |
-| AC       | (Actual Cost) 23.300 Bs       | Gasto real acumulado                  |
-| SV       | (Schedule Variance) -2.800 Bs | EV − PV (atraso)                      |
-| CV       | (Cost Variance) +500 Bs       | EV − AC (ligero ahorro)               |
-| SPI      | 0,89                          | EV / PV (atrasado)                    |
-| CPI      | 1,02                          | EV / AC (en costo)                    |
-| EAC      | 78.651 Bs                     | BAC / CPI (estimado al cierre)        |
-| VAC      | -8.651 Bs                     | BAC − EAC (sobreestimación al cierre) |
+| Variable | Valor                         | Cálculo / Interpretación                          |
+| -------- | ----------------------------- | ------------------------------------------------- |
+| PV       | (Planned Value) 26.600 Bs     | 70.000 × 0,38                                     |
+| EV       | (Earned Value) 23.800 Bs      | 70.000 × 0,34                                     |
+| AC       | (Actual Cost) 23.300 Bs       | Gasto real acumulado                              |
+| SV       | (Schedule Variance) -2.800 Bs | EV − PV (atraso)                                  |
+| CV       | (Cost Variance) +500 Bs       | EV − AC (ligero ahorro)                           |
+| SPI      | 0,89                          | EV / PV (atrasado)                                |
+| CPI      | 1,02                          | EV / AC (en costo)                                |
+| EAC      | 68.627 Bs                     | BAC / CPI (estimado al cierre)                    |
+| VAC      | +1.373 Bs                     | BAC − EAC (ahorro proyectado al cierre)           |
 
-La proyección EAC supera el BAC, lo que indica que de mantenerse la tendencia el proyecto cerraría con sobrecosto. Sin embargo, la causa principal (SPI bajo) se relaciona con la pérdida temporal de personal, cuya mitigación está en curso. Si las acciones de recuperación funcionan, el SPI debería volver a la zona verde en 3–4 semanas.
+La proyección EAC se sitúa por debajo del BAC, lo que indica que de mantenerse la tendencia de costo el proyecto cerraría con un ligero ahorro. Sin embargo, el indicador crítico es el SPI: el atraso se relaciona con la pérdida temporal de personal, cuya mitigación está en curso. Si las acciones de recuperación funcionan, el SPI debería volver a la zona verde en 3–4 semanas; en caso contrario, el atraso podría presionar al alza el costo por la necesidad de horas extraordinarias, deteriorando el CPI actual.
 
 ## Semáforo de Salud del Proyecto
 

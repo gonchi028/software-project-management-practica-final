@@ -6,23 +6,29 @@ El registro de riesgos inicial se elaboró durante la Inception y se mantiene ac
 
 ## Escala de Valoración
 
-| Nivel | Probabilidad | Impacto                              | Severidad (P×I) |
-| ----- | ------------ | ------------------------------------ | --------------- |
-| Bajo  | ≤ 25 %       | Mínimo efecto en alcance/costo/plazo | 1–4             |
-| Medio | 26–60 %      | Efecto moderado, recuperable         | 5–9             |
-| Alto  | > 60 %       | Efecto severo en objetivos           | 10–16           |
+| Nivel | Probabilidad | Impacto                              | Valor (escala 1–4) |
+| ----- | ------------ | ------------------------------------ | ------------------ |
+| Bajo  | ≤ 25 %       | Mínimo efecto en alcance/costo/plazo | 1                  |
+| Medio | 26–60 %      | Efecto moderado, recuperable         | 2                  |
+| Alto  | > 60 %       | Efecto severo en objetivos           | 4                  |
+
+La escala es no lineal: Alto equivale a 4 (no a 3) para que los riesgos de impacto alto dominen la severidad. La severidad se obtiene del producto de probabilidad por impacto, ambos en esta escala 1–4. Los riesgos con severidad ≥ 8 se consideran prioritarios.
 
 ## Matriz de Probabilidad vs. Impacto
 
-La severidad se obtiene del producto de la probabilidad por el impacto, ambos en escala 1–4. Los riesgos con severidad ≥ 9 se consideran prioritarios.
+| Probabilidad \ Impacto | Bajo (1) | Medio (2) | Alto (4) |
+| ---------------------- | -------- | --------- | -------- |
+| Alta (4)               | 4        | 8         | 16       |
+| Media (2)              | 2        | 4         | 8        |
+| Baja (1)               | 1        | 2         | 4        |
 
 ## Riesgos Iniciales
 
 | ID   | Riesgo                                                            | P     | I     | Sev. | Estrategia                                                 | Responsable |
 | ---- | ----------------------------------------------------------------- | ----- | ----- | ---- | ---------------------------------------------------------- | ----------- |
-| R-01 | Cambios normativos sobre licencias sanitarias durante el proyecto | Media | Alto  | 8    | Mitigar: diseño flexible del módulo de licencias           | P           |
+| R-01 | Cambios normativos sobre licencias sanitarias durante el proyecto | Media | Alto  | 8    | Mitigar: diseño flexible del módulo de licencias           | JP          |
 | R-02 | Renuncia de personal técnico clave                                | Media | Alto  | 8    | Mitigar: documentación, plan de reemplazo, pairing         | JP          |
-| R-03 | Datos maestros de puestos incompletos o erróneos                  | Alta  | Medio | 6    | Mitigar: depuración previa y validación con administración | PO          |
+| R-03 | Datos maestros de puestos incompletos o erróneos                  | Alta  | Medio | 8    | Mitigar: depuración previa y validación con administración | PO          |
 | R-04 | Indisponibilidad de servidores de la Alcaldía                     | Baja  | Alto  | 4    | Aceptar: entorno de respaldo y plan de despliegue          | Arq.        |
 | R-05 | Resistencia al cambio del personal operativo                      | Media | Medio | 4    | Mitigar: capacitación temprana y participación             | JP          |
 | R-06 | Cambios de alcance por nuevas solicitudes del cliente             | Media | Medio | 4    | Mitigar: proceso formal de control de cambios              | JP          |

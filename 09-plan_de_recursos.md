@@ -8,7 +8,7 @@ El plan de recursos describe la composición del equipo, los roles y responsabil
 
 | Rol                             | Asignación                      | Responsabilidades clave                                                 |
 | ------------------------------- | ------------------------------- | ----------------------------------------------------------------------- |
-| Jefe de proyecto / Scrum Master | 20 % dedication                 | Planificación, control, comunicación con sponsor, facilitación de Scrum |
+| Jefe de proyecto / Scrum Master | 20 % dedicación                 | Planificación, control, comunicación con sponsor, facilitación de Scrum |
 | Product Owner                   | Parcial (Dirección de Ingresos) | Priorización del backlog, aceptación de incrementos                     |
 | Arquitecto de software          | Parcial (30 %)                  | Decisiones técnicas, revisiones de arquitectura                         |
 | Desarrollador backend (2)       | 100 %                           | API, lógica de negocio, base de datos                                   |

@@ -11,7 +11,7 @@ El acta de cierre formaliza la conclusión del proyecto o fase, verifica que tod
 | Proyecto                    | Sistema de Gestión para Mercados Municipales |
 | Fecha de cierre planificada | 03/07/2026                                   |
 | Fecha de cierre real        | 07/07/2026                                   |
-| Tipo de cierre              | Cierrepor culminación (proyecto completado)  |
+| Tipo de cierre              | Cierre por culminación (proyecto completado)  |
 | Jefe de proyecto            | Gonzalo Quispe Chumacero                     |
 
 ## Cumplimiento de Objetivos
@@ -34,13 +34,15 @@ El acta de cierre formaliza la conclusión del proyecto o fase, verifica que tod
 
 ## Estado Financiero Final
 
-| Concepto                | Presupuesto (Bs) | Real (Bs) | Desviación             |
-| ----------------------- | ---------------- | --------- | ---------------------- |
-| Costos directos         | 43.000           | 42.500    | -500                   |
-| Costos indirectos       | 14.000           | 13.800    | -200                   |
-| Reserva de contingencia | 7.000            | 7.000     | 0 (no usada)           |
-| Reserva de gestión      | 6.000            | 6.000     | 0 (usada para FSC-001) |
-| TOTAL                   | 70.000           | 69.300    | -700                   |
+| Concepto                | Presupuesto (Bs) | Real (Bs) | Desviación                                       |
+| ----------------------- | ---------------- | --------- | ------------------------------------------------ |
+| Costos directos         | 43.000           | 42.500    | -500                                             |
+| Costos indirectos       | 14.000           | 13.800    | -200                                             |
+| Reserva de contingencia | 7.000            | 7.000     | 0 (no usada)                                     |
+| Reserva de gestión      | 6.000            | 6.000     | 0 (comprometida para FSC-001, ejecución post-MVP) |
+| TOTAL                   | 70.000           | 69.300    | -700                                             |
+
+> La reserva de gestión se encuentra **comprometida** para financiar la ejecución del módulo de geolocalización (FSC-001, Alternativa B), cuyo despliegue está planificado aproximadamente 4 semanas después del cierre del MVP. Por tratarse de un incremento posterior al MVP, su ejecución financiera no se imputa al cierre del proyecto base.
 
 ## Lecciones Aprendidas y Recomendaciones
 
